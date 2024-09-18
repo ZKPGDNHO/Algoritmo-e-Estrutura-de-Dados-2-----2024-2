@@ -86,7 +86,7 @@ int main()
     Aluno *head = NULL;
     float nota, freq;
 
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 30; i++)
     {
         printf("Aluno %d:\n", i + 1);
         printf("Digite a nota do aluno:");
