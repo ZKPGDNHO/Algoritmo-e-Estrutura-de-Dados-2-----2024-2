@@ -1,0 +1,3 @@
+Para encriptar uma mensagem, rode: gcc -o esteg1 esteg1.c encryp_png.c list.c -lpng -lz
+
+Para desencriptar a mensagem, rode: gcc -o esteg2 esteg2.c encryp_png.c list.c -lpng -lz
